@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "muddy-hall-1996",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c7079c1c-d047-4d32-837d-045f02be56e7",
+      "database_name": "crimson-band-0836-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
